@@ -3,7 +3,7 @@ import sys
 import socket
 from datetime import datetime
 
-name = pyfiglet.figlet_format("JUST  SCAN  IT")
+name = pyfiglet.figlet_format("JUST  SCAN  IT") #providing name
 print(name)
 
 ip_addr=input("Enter the IP address name: ")
